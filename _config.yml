@@ -4,4 +4,7 @@ remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-remote-theme
 
-repository: Belox86/Costituzione-Sacra-Scassata
+# Definisci esplicitamente l'oggetto che il tema legge per il pulsante
+github:
+  repository_url: https://github.com/Belox86/Costituzione-Sacra-Scassata
+  repository_nwo: Belox86/Costituzione-Sacra-Scassata
