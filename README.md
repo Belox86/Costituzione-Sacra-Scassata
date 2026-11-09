@@ -8,7 +8,7 @@ La pagina web ufficiale del regolamento è consultabile qui:
 
 ---
 
-## 📝 Come è scritto la costituzione: Il linguaggio Markdown (`.md`)
+## 📝 Come è scritta la costituzione: Il linguaggio Markdown (`.md`)
 
 Il testo della costituzione è contenuto nel file `index.md` ed è scritto in **Markdown**, un formato di testo puro facilissimo da leggere ed editare. Non servono programmi complessi: gli stili grafici (titoli, elenchi, grassetti) si applicano usando semplici simboli di testo.
 
