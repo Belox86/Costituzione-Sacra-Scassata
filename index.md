@@ -168,19 +168,19 @@ Se copula nel mazzo punti col *Papa*, i rispettivi effetti contro i *Malus* si a
 
 ### Capo V: Carte Personali
 
-**Angelo**: Annulla un *Malus* presente nel proprio mazzo punti al conteggio finale.
+* **Angelo**: Annulla un *Malus* presente nel proprio mazzo punti al conteggio finale.
 
-**Giustizia**: Anti-Rota.
+* **Giustizia**: Anti-Rota.
 
-**Mondo**: Anti-Torre. Chi lo possiede non può essere intorrato né auto-intorrarsi.
+* **Mondo**: Anti-Torre. Chi lo possiede non può essere intorrato né auto-intorrarsi.
 
-**Temperanza**: Anti-Amanti.
+* **Temperanza**: Anti-Amanti.
 
-**Sole**: Anti-Occhi; se pescato sotto effetto di *Occhi-Tarocchi* non può essere rubato.
+* **Sole**: Anti-Occhi; se pescato sotto effetto di *Occhi-Tarocchi* non può essere rubato.
 
-**Luna**: Anti-Occhi minor. L’effetto *Occhi-Tarocchi* cessa dopo 5 turni; se pescato sotto effetto di *Occhi-Tarocchi* non può essere rubato.
+* **Luna**: Anti-Occhi minor. L’effetto *Occhi-Tarocchi* cessa dopo 5 turni; se pescato sotto effetto di *Occhi-Tarocchi* non può essere rubato.
 
-**Sole + Luna**: Anti-Eremita. Se posseduti da chi gioca *Eremita*, lo potenziano trasformandolo in *Super Eremita*.
+* **Sole + Luna**: Anti-Eremita. Se posseduti da chi gioca *Eremita*, lo potenziano trasformandolo in *Super Eremita*.
 
 ## TITOLO IV – VERSIONE BETA A SQUADRE (PER 5 GIOCATORI)
 
