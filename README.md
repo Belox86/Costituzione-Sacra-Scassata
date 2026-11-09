@@ -8,9 +8,9 @@ La pagina web ufficiale del regolamento è consultabile qui:
 
 ---
 
-## 📝 Come è scritto il regolamento: Il linguaggio Markdown (`.md`)
+## 📝 Come è scritto la costituzione: Il linguaggio Markdown (`.md`)
 
-Il testo del regolamento è contenuto nel file `index.md` ed è scritto in **Markdown**, un formato di testo puro facilissimo da leggere ed editare. Non servono programmi complessi: gli stili grafici (titoli, elenchi, grassetti) si applicano usando semplici simboli di testo.
+Il testo della costituzione è contenuto nel file `index.md` ed è scritto in **Markdown**, un formato di testo puro facilissimo da leggere ed editare. Non servono programmi complessi: gli stili grafici (titoli, elenchi, grassetti) si applicano usando semplici simboli di testo.
 
 ### 📚 Guida rapida alla sintassi Markdown
 
@@ -41,7 +41,7 @@ Per approfondire, puoi consultare la [Guida Ufficiale al Markdown di GitHub](htt
 
 ---
 
-## 🛠️ Come modificare o aggiungere una regola (Senza sapere nulla di Git)
+## 🛠️ Come modificare o aggiungere una regola
 
 Non serve usare il terminale né installare software sul computer. Puoi fare tutto direttamente dal browser in pochi semplici passaggi:
 
