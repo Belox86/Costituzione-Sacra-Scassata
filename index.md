@@ -1,8 +1,6 @@
-# REGOLAMENTO DI GIOCO
-## SACRA COSTITUZIONE SCASSATA
-### La Costituzione
+# SACRA COSTITUZIONE SCASSATA
 
----
+
 
 # ATTO DI PROMULGAZIONE
 
@@ -14,7 +12,6 @@ vista la deliberazione dell'Assemblea Costituente,
 
 promulgano la Sacra Costituzione Scassata nel testo che segue.
 
----
 
 # TITOLO I – COMPOSIZIONE DEL MAZZO E PUNTEGGI
 
@@ -63,7 +60,7 @@ Il possesso di tutti e quattro gli Assi Tarocchi comporta il cappotto.
 
 # TITOLO II – DISPOSIZIONI GENERALI
 
-#### Capo I: Svolgimento della partita
+## Capo I: Svolgimento della partita
 
 Il gioco segue le normali regole della Briscola. Ogni giocatore riceve 3 carte in mano e una carta viene girata per determinare la briscola.
 
@@ -109,7 +106,6 @@ Il giocatore che soddisfa una delle condizioni che seguono ha il diritto/dovere 
 * Possesso di tutti i *Malus*
 * Possesso di tutte le Carte Personali
 
----
 
 # TITOLO III – CARTE SPECIALI
 
@@ -187,8 +183,6 @@ Se copula nel mazzo punti col *Papa*, i rispettivi effetti contro i *Malus* si a
 
 **Sole + Luna**: Anti-Eremita. Se posseduti da chi gioca *Eremita*, lo potenziano trasformandolo in *Super Eremita*.
 
----
-
 # TITOLO IV – VERSIONE BETA A SQUADRE (PER 5 GIOCATORI)
 
 Trattasi di una variante a squadre alla classica versione “Wrestling” precedentemente illustrata (tutti contro tutti) riservata a 5 giocatori.
@@ -220,7 +214,6 @@ Nuovo, rispetto alla versione “Wrestling”, è il potere conferito a La Tempe
 * I *Re* devono fare più punti dei *Cavalli* e impedire allo *Stronzo* di fare più della metà dei punti dei *Cavalli*.
 * Lo *Stronzo* vuole che i *Cavalli* non vincano, ma deve ottenere più della metà dei punti dei *Cavalli* per battere i *Re*.
 
----
 
 # TITOLO V – DISPOSIZIONI FINALI
 
@@ -230,7 +223,6 @@ Ogni giocatore è responsabile del controllo dei propri effetti e dell’applica
 
 Rallentamenti reiterati e ingiustificati possono essere sanzionati con una decurtazione di punti a discrezione degli altri giocatori.
 
----
 
 > Così deciso in Brescia, addì 25 giugno 2011.
 > 
@@ -246,7 +238,7 @@ Rallentamenti reiterati e ingiustificati possono essere sanzionati con una decur
 
 ---
 
-### NOTA ESTERNA · NON PARTE DEL REGOLAMENTO
+### NOTA ESTERNA · NON PARTE DELLA COSTITUZIONE
 
 Restano da chiarire esclusivamente i seguenti due aspetti relativi alla Torre:
 
