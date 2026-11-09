@@ -54,8 +54,6 @@ Il possesso di tutti e quattro gli Assi Tarocchi comporta il cappotto.
 * Cavallo denari piacentino: *Frocio*
 * Re bastoni piacentino: *Uomo con clava*
 
----
-
 ## TITOLO II – DISPOSIZIONI GENERALI
 
 ### Capo I: Svolgimento della partita
