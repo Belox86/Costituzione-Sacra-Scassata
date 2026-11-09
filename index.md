@@ -219,18 +219,19 @@ Ogni giocatore è responsabile del controllo dei propri effetti e dell’applica
 
 Rallentamenti reiterati e ingiustificati possono essere sanzionati con una decurtazione di punti a discrezione degli altri giocatori.
 
+---
 
-> Così deciso in Brescia, addì 25 giugno 2011.
-> 
-> **Ratificano:**
-> * *Fondatore occulto*: BELOTTI CASSA MICHELE
-> * *Fondatore estensore*: BERARDELLI DAVIDE
-> * *Fondatore*: GORLANI FILIPPO
-> * *Fondatore sostituto*: POSIO MICHELE
-> 
-> **Controfirmano per presa visione:**
-> * *Duellante non fondatore*: BELLERI PIETRO
-> * *Duellante non fondatore*: MONTINI ALBERTO
+Così deciso in Brescia, addì 25 giugno 2011.
+ 
+**Ratificano:**
+* *Fondatore occulto*: BELOTTI CASSA MICHELE
+* *Fondatore estensore*: BERARDELLI DAVIDE
+* *Fondatore*: GORLANI FILIPPO
+* *Fondatore sostituto*: POSIO MICHELE
+ 
+**Controfirmano per presa visione:**
+* *Duellante non fondatore*: BELLERI PIETRO
+* *Duellante non fondatore*: MONTINI ALBERTO
 
 ---
 
