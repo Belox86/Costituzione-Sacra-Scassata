@@ -1,7 +1,16 @@
 title: Sacra Costituzione Scassata
 description: Regolamento di Gioco
-abstract: Regolamento di Gioco
-remote_theme: jasongrimes/jekyll-chapterbook
-github_edit:
-  enabled: true
-  base_url: https://github.com/Belox86/Costituzione-Sacra-Scassata/
+
+remote_theme: pages-themes/primer@v0.6.0
+
+plugins:
+  - jekyll-remote-theme
+
+repository: Belox86/Costituzione-Sacra-Scassata
+
+github:
+  private: false
+  source:
+    branch: "main"
+    path: "/"
+  repository_url: "https://github.com/Belox86/Costituzione-Sacra-Scassata"
