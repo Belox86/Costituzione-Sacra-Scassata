@@ -107,54 +107,54 @@ Il giocatore che soddisfa una delle condizioni che seguono ha il diritto/dovere 
 
 ### Capo I: Carte Azione
 
-**Eremita**: Ruba le prime 10 carte in cima al mazzo punti di un avversario.
+* **Eremita**: Ruba le prime 10 carte in cima al mazzo punti di un avversario.
 
-**Super Eremita**: Eremita combinato con *Sole* e *Luna* permette di rubare le prime 20 carte in cima al mazzo punti avversario.  
+* **Super Eremita**: Eremita combinato con *Sole* e *Luna* permette di rubare le prime 20 carte in cima al mazzo punti avversario.  
 Non può essere giocato senza più carte in tavola, quando il mazzo di pesca è esaurito.  
 Se *Sole* e *Luna* sono invece posseduti come Carte personali attive da un avversario, quest’ultimo è protetto dal furto dei punti dell’*Eremita*.
 
-**Rota Fortuna**: Scambia il proprio mazzo punti con quello di un avversario.  
+* **Rota Fortuna**: Scambia il proprio mazzo punti con quello di un avversario.  
 Se giocata senza più carte in tavola, quando il mazzo di pesca è esaurito, i giocatori si scambiano le carte in mano nel senso di gioco.  
 Se giocata nell’ultimissima mano, non ha più effetto.
 
-**Bagatto**: Scambia tutte le carte in mano con quelle di un altro giocatore.  
+* **Bagatto**: Scambia tutte le carte in mano con quelle di un altro giocatore.  
 L’azione si esegue al termine della mano in cui è stato giocato, prima del pescaggio.
 
-**Matto**: Cambia briscola alla fine della mano in cui è stato giocato, diversa dalla precedente.
+* **Matto**: Cambia briscola alla fine della mano in cui è stato giocato, diversa dalla precedente.
 
-**Torre**: Impone a un giocatore di fermarsi per 5 turni, durante i quali non può giocare né pescare e non può subire gli effetti di nessuna carta azione, passata o presente.  
+* **Torre**: Impone a un giocatore di fermarsi per 5 turni, durante i quali non può giocare né pescare e non può subire gli effetti di nessuna carta azione, passata o presente.  
 È consentito l’auto-internamento.  
 Durante l’isolamento il giocatore è completamente escluso dal gioco.  
 Quando dovesse rientrare in gioco, eventuali effetti di carte azione di cui era già vittima rimangono validi.  
 Se la segregazione, volontaria o forzata, avviene durante gli ultimi 5 turni della partita, le carte rimaste in mano vengono considerate come giocate e conquistate automaticamente dal giocatore intorrato.
 
-**Occhi Trentini**: Permette di visionare pubblicamente o privatamente le carte in mano ad un avversario a scelta.
+* **Occhi Trentini**: Permette di visionare pubblicamente o privatamente le carte in mano ad un avversario a scelta.
 
-**Occhi-Tarocchi – Grande Snappata**: Permette di visionare le carte pescate da un avversario per tutta la partita e scambiarle con le proprie, eccetto *Sole* e *Luna*.
+* **Occhi-Tarocchi – Grande Snappata**: Permette di visionare le carte pescate da un avversario per tutta la partita e scambiarle con le proprie, eccetto *Sole* e *Luna*.
 
-**Due di Coppe – Sbronzo e Sbocco**:  
-* *Sbronzo*: per 5 turni un avversario deve giocare subito la carta che pesca.  
-* *Sbocco*: terminato l’effetto *Sbronzo*, il giocatore regala 2/3/4 carte dai propri punti agli avversari, a seconda che i giocatori siano rispettivamente 5/4/3.  
+* **Due di Coppe – Sbronzo e Sbocco**:  
+  * *Sbronzo*: per 5 turni un avversario deve giocare subito la carta che pesca.  
+  * *Sbocco*: terminato l’effetto *Sbronzo*, il giocatore regala 2/3/4 carte dai propri punti agli avversari, a seconda che i giocatori siano rispettivamente 5/4/3.  
 Annulla temporaneamente l’effetto *Occhi-Tarocchi* di chi ne beneficia.
 
-**Amanti – L’inciucio**: Un avversario a scelta diventa partner forzato di chi gioca la carta e gli regala tutti i punti conquistati nei successivi 5 turni.
+* **Amanti – L’inciucio**: Un avversario a scelta diventa partner forzato di chi gioca la carta e gli regala tutti i punti conquistati nei successivi 5 turni.
 
-**Stelle**: Chi la gioca riceve da ciascun avversario 2/3/4 carte in cima ai rispettivi mazzi punti, a seconda che i giocatori siano rispettivamente 5/4/3.
+* **Stelle**: Chi la gioca riceve da ciascun avversario 2/3/4 carte in cima ai rispettivi mazzi punti, a seconda che i giocatori siano rispettivamente 5/4/3.
 
-**Forza**: Ruba una Carta personale a un avversario.
+* **Forza**: Ruba una Carta personale a un avversario.
 
-**Carro – Snappata universale privata**: Permette di visionare le carte in mano a tutti gli avversari.
+* **Carro – Snappata universale privata**: Permette di visionare le carte in mano a tutti gli avversari.
 
 ### Capo II: Bonus
 
-**Papessa**: Annulla metà effetto dei *Malus* presenti nel proprio mazzo punti.  
+* **Papessa**: Annulla metà effetto dei *Malus* presenti nel proprio mazzo punti.  
 Se copula nel mazzo punti col *Papa*, i rispettivi effetti contro i *Malus* si annullano reciprocamente e i *Malus* mantengono il valore pieno di -60 life-points.
 
 ### Capo III: Carte a Doppio Effetto Azione/Bonus
 
-**Papa – Urbi et Orbi**:  
-* *Azione*: Pigliatutto. È una super briscola imbattibile. Chi lo gioca conquista necessariamente la mano.  
-* *Punteggio*: Nel conteggio finale annulla i *Malus* presenti nel proprio mazzo punti a meno che non copuli nello stesso mazzo con la papessa, in qual caso non ha nessun effetto.
+* **Papa – Urbi et Orbi**:  
+  * *Azione*: Pigliatutto. È una super briscola imbattibile. Chi lo gioca conquista necessariamente la mano.  
+  * *Punteggio*: Nel conteggio finale annulla i *Malus* presenti nel proprio mazzo punti a meno che non copuli nello stesso mazzo con la papessa, in qual caso non ha nessun effetto.
 
 ### Capo IV: Malus
 
@@ -237,7 +237,7 @@ Così deciso in Brescia, addì 25 giugno 2011.
 
 ### NOTA ESTERNA · NON PARTE DELLA COSTITUZIONE
 
-Restano da chiarire esclusivamente i seguenti due aspetti relativi alla Torre:
+Restano da chiarire esclusivamente i seguenti aspetti:
 
 1. **Durata degli effetti durante la Torre:** gli effetti sospesi (es. sbronzo/sbocco) continuano a consumare la propria durata durante l’isolamento oppure il relativo conteggio viene congelato e riprende al rientro del giocatore?
 2. **Intorramento nelle ultime 5 mani:** le carte personali eventualmente possedute dal giocatore, si “attivano” o vanno silentemente nel mazzo punti? E in caso, cosa succede se una di quelle carte personali è il Mondo (anti-torre)?
