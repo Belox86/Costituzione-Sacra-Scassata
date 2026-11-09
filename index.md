@@ -71,7 +71,7 @@ La partita termina quando, esaurito il mazzo di pesca, sono state giocate tutte 
 
 Il loro potere appartiene a chi gioca la carta.
 
-Si risolvono al termine della mano, dopo il conferimento delle carte giocate nel mazzo dei life-points e prima del pescaggio della nuova carta.
+Si risolvono al termine della mano, dopo il conferimento delle carte giocate nel mazzo dei life-points e prima del pescaggio della nuova carta. Unica eccezzione *Il Papa* che svolge la sua azione pigliatutto direttamente nella mano giocata determinandone la presa.
 
 Se ne vengono giocate più di una, si risolvono nell’ordine in cui sono state giocate.
 
