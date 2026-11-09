@@ -1,6 +1,4 @@
-# Sacra Costituzione Scassata
-
-## ATTO DI PROMULGAZIONE
+# ATTO DI PROMULGAZIONE
 
 I Fondatori,
 
@@ -11,9 +9,9 @@ vista la deliberazione dell'Assemblea Costituente,
 promulgano la Sacra Costituzione Scassata nel testo che segue.
 
 
-## TITOLO I – COMPOSIZIONE DEL MAZZO E PUNTEGGI
+# TITOLO I – COMPOSIZIONE DEL MAZZO E PUNTEGGI
 
-### Capo I: Sistema di Punteggio
+## Capo I: Sistema di Punteggio
 
 In ordine crescente di forza e importanza:
 
@@ -43,7 +41,7 @@ In ordine crescente di forza e importanza:
 
 Il possesso di tutti e quattro gli Assi Tarocchi comporta il cappotto.
 
-### Capo II: Personalità Minori
+## Capo II: Personalità Minori
 
 * Due Denari trentino: *gli Occhi*
 * Due Bastoni piacentino: *Dolorosi*
@@ -54,9 +52,9 @@ Il possesso di tutti e quattro gli Assi Tarocchi comporta il cappotto.
 * Cavallo denari piacentino: *Frocio*
 * Re bastoni piacentino: *Uomo con clava*
 
-## TITOLO II – DISPOSIZIONI GENERALI
+# TITOLO II – DISPOSIZIONI GENERALI
 
-### Capo I: Svolgimento della partita
+## Capo I: Svolgimento della partita
 
 Il gioco segue le normali regole della Briscola. Ogni giocatore riceve 3 carte in mano e una carta viene girata per determinare la briscola.
 
@@ -64,7 +62,7 @@ Ogni mano consiste in un giro completo in cui ciascun giocatore attivo gioca una
 
 La partita termina quando, esaurito il mazzo di pesca, sono state giocate tutte le carte rimaste in mano; segue il conteggio dei punti.
 
-### Capo II: Carte Azione
+## Capo II: Carte Azione
 
 Il loro potere appartiene a chi gioca la carta.
 
@@ -72,7 +70,7 @@ Si risolvono al termine della mano, dopo il conferimento delle carte giocate nel
 
 Se ne vengono giocate più di una, si risolvono nell’ordine in cui sono state giocate.
 
-### Capo III: Carte di Punteggio (Bonus / Malus)
+## Capo III: Carte di Punteggio (Bonus / Malus)
 
 *Papessa* e *Malus* producono i propri effetti al conteggio finale e seguono il mazzo punti in cui si trovano.
 
@@ -82,7 +80,7 @@ Ogni *Malus* vale -60 life-points, a meno di effetti esterni derivanti da carte 
 
 Il possesso di tutti e quattro i *Malus* nel proprio mazzo punti comporta il cappotto.
 
-### Capo IV: Carte Personali
+## Capo IV: Carte Personali
 
 Le Carte Personali rimangono al giocatore che le ha giocate, scoperte davanti al proprio mazzo life-points, indipendentemente da chi conquista la mano.
 
@@ -92,7 +90,7 @@ Si considerano attive immediatamente dopo essere state giocate.
 
 Il possesso di tutte e sei le Carte Personali comporta il cappotto.
 
-### Capo V: Cappotto
+## Capo V: Cappotto
 
 Il cappotto comporta la vittoria immediata.
 
@@ -103,9 +101,9 @@ Il giocatore che soddisfa una delle condizioni che seguono ha il diritto/dovere 
 * Possesso di tutte le Carte Personali
 
 
-## TITOLO III – CARTE SPECIALI
+# TITOLO III – CARTE SPECIALI
 
-### Capo I: Carte Azione
+## Capo I: Carte Azione
 
 **Eremita**: Ruba le prime 10 carte in cima al mazzo punti di un avversario.
 
@@ -145,25 +143,25 @@ Annulla temporaneamente l’effetto *Occhi-Tarocchi* di chi ne beneficia.
 
 **Carro – Snappata universale privata**: Permette di visionare le carte in mano a tutti gli avversari.
 
-### Capo II: Bonus
+## Capo II: Bonus
 
 **Papessa**: Annulla metà effetto dei *Malus* presenti nel proprio mazzo punti.  
 Se copula nel mazzo punti col *Papa*, i rispettivi effetti contro i *Malus* si annullano reciprocamente e i *Malus* mantengono il valore pieno di -60 life-points.
 
-### Capo III: Carte a Doppio Effetto Azione/Bonus
+## Capo III: Carte a Doppio Effetto Azione/Bonus
 
 **Papa – Urbi et Orbi**:  
 * *Azione*: Pigliatutto. È una super briscola imbattibile. Chi lo gioca conquista necessariamente la mano.  
 * *Punteggio*: Nel conteggio finale annulla i *Malus* presenti nel proprio mazzo punti a meno che non copuli nello stesso mazzo con la papessa, in qual caso non ha nessun effetto.
 
-### Capo IV: Malus
+## Capo IV: Malus
 
 * **Appeso**
 * **Diavolo**
 * **Matta** (ex 4 Stranfa)
 * **Morte**
 
-### Capo V: Carte Personali
+## Capo V: Carte Personali
 
 **Angelo**: Annulla un *Malus* presente nel proprio mazzo punti al conteggio finale.
 
@@ -179,7 +177,7 @@ Se copula nel mazzo punti col *Papa*, i rispettivi effetti contro i *Malus* si a
 
 **Sole + Luna**: Anti-Eremita. Se posseduti da chi gioca *Eremita*, lo potenziano trasformandolo in *Super Eremita*.
 
-## TITOLO IV – VERSIONE BETA A SQUADRE (PER 5 GIOCATORI)
+# TITOLO IV – VERSIONE BETA A SQUADRE (PER 5 GIOCATORI)
 
 Trattasi di una variante a squadre alla classica versione “Wrestling” precedentemente illustrata (tutti contro tutti) riservata a 5 giocatori.
 
@@ -204,14 +202,14 @@ che daranno facoltà a colui che ne beneficia di imporre a un duellante a sua sc
 
 Nuovo, rispetto alla versione “Wrestling”, è il potere conferito a La Temperanza che, se giocata, impone che tutti i giocatori rivelino la propria carta-ruolo e, di conseguenza, la composizione delle coppie che si affronteranno.
 
-### Obiettivi
+## Obiettivi
 
 * I *Cavalli* devono fare più punti dei *Re*.
 * I *Re* devono fare più punti dei *Cavalli* e impedire allo *Stronzo* di fare più della metà dei punti dei *Cavalli*.
 * Lo *Stronzo* vuole che i *Cavalli* non vincano, ma deve ottenere più della metà dei punti dei *Cavalli* per battere i *Re*.
 
 
-## TITOLO V – DISPOSIZIONI FINALI
+# TITOLO V – DISPOSIZIONI FINALI
 
 Eventuali bug o incongruenze riscontrati durante la partita vengono risolti dai giocatori e annotati per eventuali aggiornamenti della Costituzione.
 
@@ -235,7 +233,7 @@ Così deciso in Brescia, addì 25 giugno 2011.
 
 ---
 
-### NOTA ESTERNA · NON PARTE DELLA COSTITUZIONE
+## NOTA ESTERNA · NON PARTE DELLA COSTITUZIONE
 
 Restano da chiarire esclusivamente i seguenti due aspetti relativi alla Torre:
 
