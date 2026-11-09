@@ -1,11 +1,6 @@
-title: Sacra Costituzione Scassata
+name: Sacra Costituzione Scassata
+title: null
 description: Regolamento di Gioco
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-remote-theme
-
-repository: Belox86/Costituzione-Sacra-Scassata
-
-github:
-  repository_url: https://github.com/Belox86/Costituzione-Sacra-Scassata
-  url: https://github.com/Belox86/Costituzione-Sacra-Scassata
