@@ -1,4 +1,7 @@
 # Sacra Costituzione Scassata
+<p align="right">
+  <em>"Scaassaaaaa, ti scasso la cassa"</em>, Anonimo Calabrese
+</p>
 
 ## ATTO DI PROMULGAZIONE
 
